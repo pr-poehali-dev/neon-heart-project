@@ -34,7 +34,7 @@ const Index = () => {
       </div>
 
       <div className="z-10 flex items-center justify-center">
-        <NeonHeart message="Катя ты моя принцеска" />
+        <NeonHeart message="Ты моя милая принцесса" />
       </div>
 
       <style jsx>{`
